@@ -32,6 +32,7 @@ This project analyzes procurement data focusing on:
 [View Dashboard](https://public.tableau.com/app/profile/amaya.casanova.diaz/viz/Procurement_Public/FullAnalysisStory)
 
 ## 🖼 Dashboard Preview
-(imágenes)
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](tableau/precios.jpg)
+![Dashboard Overview](tableau/General.jpg)
+![Dashboard Overview](tableau/proveedores.jpg)
