@@ -33,6 +33,6 @@ This project analyzes procurement data focusing on:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Overview](tableau/precios.jpg)
-![Dashboard Overview](tableau/General.jpg)
-![Dashboard Overview](tableau/proveedores.jpg)
+![Dashboard Overview](images/precios.jpg)
+![Dashboard Overview](images/General.jpg)
+![Dashboard Overview](images/proveedores.jpg)
